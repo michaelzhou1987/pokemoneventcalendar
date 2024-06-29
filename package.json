@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "axios": "^1.7.2",
+    "googleapis": "^105.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9"
+  }
+}
